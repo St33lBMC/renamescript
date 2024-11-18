@@ -1,0 +1,18 @@
+{
+    "replacements": {
+        "Bottom Copper": "gtl.gbr",
+        "Bottom Paste": "spb.gbr",
+        "Bottom Resist": "smb.gbr",
+        "Bottom Silk": "ssb.gbr",
+        "NC Drill Data": "drl.drl",
+        "Outline": "otl.gbr",
+        "Top Copper": "gtl.gbr",
+        "Top Paste": "spt.gbr",
+        "Top Resist": "smt.gbr",
+        "Top Silk": "sst.gbr",
+        "Inner Layer 1": "in1.gbr",
+        "Inner Layer 2": "in2.gbr"
+    },
+
+    "outputdir": "EasyPCBUSA"
+}
